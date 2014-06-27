@@ -474,6 +474,7 @@ wesnoth_sources = Split("""
     playsingle_controller.cpp
     playturn.cpp
     portrait.cpp
+    spritesheet.cpp
     replay.cpp
     replay_controller.cpp
     resources.cpp
